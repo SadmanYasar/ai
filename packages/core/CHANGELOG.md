@@ -1,5 +1,11 @@
 # ai
 
+## 2.2.31
+
+### Patch Changes
+
+- 9b89c4d: react/use-assistant: Expose setInput
+
 ## 2.2.30
 
 ### Patch Changes
